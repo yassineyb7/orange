@@ -1,0 +1,20 @@
+commit 59e1ca1e0a92ab3c71b6793cee96a6585b5342a8
+Merge: c6a4575 5c44874
+Author: yassine boudhim <125898200+yassineyb7@users.noreply.github.com>
+Date:   Wed Nov 20 12:43:15 2024 +0100
+
+    Merge pull request #1 from yassineyb7/dev
+    
+    local
+
+commit 5c44874fd06d3a49cc9d22665f701ee26958d72c
+Author: yassineyb7 <yassinecr666@gmail.com>
+Date:   Wed Nov 20 11:16:38 2024 +0100
+
+    Testing file for dev branch
+
+commit c6a4575f441393fe605a9dc1ecec148077290cea
+Author: yassineyb7 <yassinecr666@gmail.com>
+Date:   Wed Nov 20 11:05:57 2024 +0100
+
+    folder task addded
